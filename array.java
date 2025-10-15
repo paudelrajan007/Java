@@ -5,7 +5,7 @@ public class array{
         Scanner sc =new Scanner(System.in);
         System.out.println("Enter  name");
         String name=sc.nextLine();
-        System.err.println(name);
+        System.out.println(name);
         sc.close();
     }
 }
